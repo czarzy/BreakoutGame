@@ -1,0 +1,10 @@
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.pdb
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csprojResolveAssemblyReference.cache
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csproj.GenerateResource.Cache
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+C:\Users\rafal\source\repos\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.BreakoutForm.resources
